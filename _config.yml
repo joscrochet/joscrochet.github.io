@@ -22,10 +22,10 @@ url: ""  # the base hostname & protocol for your site, e.g. http://example.com
 author:
   name: Jo Petty
   instagram: joscrochet
-  picture: /assets/images/johndoe.png
+  picture: /images/crochet-test.png
 instagram_username: joscrochet
 github_username: joscrochet
-logo: /assets/icons/basically-basic-logo-light.svg
+logo: /images/crochet-test.png
 search: true
 search_full_content: true
 
